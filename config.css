@@ -57,4 +57,11 @@
     text-align: center;
     
     }
+    .bottom-right {
+      position: absolute;
+      bottom: 8px;
+      right: 16px;
+      color: white;
+      font-family: 'Courier New', Courier, monospace;
+    }
     
